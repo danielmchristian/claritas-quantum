@@ -2,9 +2,11 @@
 
 > Model your infrastructure as a graph, then score how exposed it is to a future quantum attacker — and prove which fix helps most.
 
-**Role: Sole author & engineer · Timeframe: 2026 (research prototype) · Status: Local proof-of-concept (synthetic data) · Live link: none — runs as a local CLI**
+**Role: Core engineer on the NSF-funded Claritas Quantum team · This repo: a solo proof-of-concept I built to explore the PQRI scoring method · Status: Local PoC (synthetic data) · Runs as a local CLI**
 
 ---
+
+> **Context.** This repository is a standalone proof-of-concept I built to explore the readiness-scoring method. It is part of my work as a core engineer on **Claritas Quantum**, an NSF-funded post-quantum attack-surface platform developed with a small team (led by [@colyermorris](https://github.com/colyermorris)). The production platform is private; this public repo contains only my own PoC code and synthetic data.
 
 ## The Problem
 
